@@ -1,6 +1,6 @@
 import timeit
 from collections import deque
-
+ 
 # Реализация стека через массив
 class ArrayStack:
     def __init__(self):
